@@ -69,6 +69,7 @@ windows: `Alt + insert`, Mac: `control + Enter`
 
 #### 获取帮助以及建议
 QQ:11563928
+Email: gucovip@gmail.com
 
 #### 更新日志
 * 2.1.0 InsertClass 插入 class 时不再添加缩进。如果还需要缩进，可以下载 2.0.7 版本。
@@ -86,4 +87,3 @@ QQ:11563928
 
 #### 给我买杯咖啡 Buy me a coffee
 ![image](https://user-images.githubusercontent.com/13230237/128452500-292addd6-8bd6-42f1-aa9f-547341b0cb1e.png)
-
