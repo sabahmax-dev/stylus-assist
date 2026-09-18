@@ -1,3 +1,27 @@
+## [2.1.0](https://github.com/gucovip/stylus-assist/compare/2.0.7...2.1.0) (2022-08-31)
+
+### Features
+
+* 2.1.0 InsertClass 插入 class 时不再添加缩进。
+
+## [2.0.7](https://github.com/gucovip/stylus-assist/compare/2.0.6...2.0.7) (2022-08-04)
+
+### Features
+
+* 2.0.7 兼容到 223 版本
+
+## [2.0.6](https://github.com/gucovip/stylus-assist/compare/2.0.5...2.0.6) (2022-04-13)
+
+### Features
+
+* 2.0.6 兼容到 221 版本
+
+## [2.0.5](https://github.com/gucovip/stylus-assist/compare/2.0.4-1...2.0.5) (2021-12-09)
+
+### Bug Fixes
+
+* 2.0.5 修复新版本 213 不可见的问题。
+
 # [1.0.0](https://github.com/gucovip/stylus-assist/compare/2.0.4-2...1.0.0) (2021-08-24)
 
 
